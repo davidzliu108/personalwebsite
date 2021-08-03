@@ -12,7 +12,7 @@ const Hero = (props) => (
         David Liu
       </ SectionTitle>
       <SectionText>
-        Wassup Mane
+        Welcome. My name is David Liu and I am currently a third year studying computer science at the University of North Carolina at Chapel Hill. 
       </SectionText>
       <Button onClick={() => window.location = 'https://google.com'}>Learn More</Button>
     </LeftSection>

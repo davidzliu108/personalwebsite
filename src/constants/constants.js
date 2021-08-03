@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'UBoostUs',
-    description: "Application for small businesses and customers to take advantage of word of mouth marketing in order to increase sales for the business and allows loyal customers to refer friends to try the business in exchange for monetary payments",
+    description: "Application for small businesses and customers to take advantage of word of mouth marketing in order to increase sales for the business - Allows loyal customers to refer friends to try the business in exchange for monetary payments",
       image: '/images/1.png',
       tags: ['React Native', 'Node', 'JavaScript'],
     source: 'https://apps.apple.com/us/app/uboostus-scanner/id1566638370',
