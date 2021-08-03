@@ -17,7 +17,7 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience With <br />
-            React.js
+            React, React Native, GitHub, Bootstrap, and Npm
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -27,17 +27,7 @@ const Technologies = () =>  (
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
             Experience With <br />
-            Node.js and Databases
-          </ListParagraph>
-        </ListContainer>
-      </ListItem>
-      <ListItem>
-        <DiZend size="3rem" />
-        <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
-          <ListParagraph>
-            Experience With <br />
-            tools like Figma
+            Node.js, Java, Firebase
           </ListParagraph>
         </ListContainer>
       </ListItem>
