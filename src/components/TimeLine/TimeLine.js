@@ -46,7 +46,8 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        Yo wassup let's gooooooo
+        I was born in Williamsburg, Virginia in the year 2000, and I was raised in Cary, North Carolina since 2002.  
+        As a child, I have always been fascinated with technology and the amazing things you can do with it. Anecdotally, I recall my father coming home with the brand new iPod touch 2g in 2009. Being able to switch the orientation of the weather app by turning the device absolutely blew my mind. I knew then that I wanted to pursue a career in a computer science related field.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
