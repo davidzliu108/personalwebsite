@@ -13,8 +13,8 @@ export const projects = [
     description:"Built a community messaging proof of concept app similar to Discord or Slack by making use of Tribe API ",
     image: '/images/2.png',
     tags: ['React Native', 'JavaScript'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://apps.apple.com/us/app/digbi-health/id1436497868',
+    visit: 'https://apps.apple.com/us/app/digbi-health/id1436497868',
     id: 1,
   },
   {
@@ -22,8 +22,8 @@ export const projects = [
     description: "In progress development of an application to help patients with UC track their diets, symptoms, and wellbeing",
       image: '/images/3.jpg',
       tags: ['React', 'JavaScript', 'Firebase'],
-    source: 'https://google.com',
-    visit: 'https://uccenter.herokuapp.com/login',
+    source: 'https://uccenter.herokuapp.com/login',
+    visit: 'https://github.com/davidzliu108/ucapp',
     id: 2,
   },
 ];
