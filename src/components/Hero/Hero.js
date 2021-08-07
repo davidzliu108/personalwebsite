@@ -14,7 +14,7 @@ const Hero = (props) => (
       <SectionText>
         Welcome. My name is David Liu and I am currently a third year studying computer science at the University of North Carolina at Chapel Hill. 
       </SectionText>
-      <Button onClick={() => window.location = 'https://google.com'}>Learn More</Button>
+      <Button onClick={() => window.location = 'https://www.linkedin.com/in/david-liu-bb0742196/'}>Learn More</Button>
     </LeftSection>
   </Section>
 );
